@@ -68,23 +68,6 @@
 <img src="https://streak-stats.demolab.com?user=wolf-fs&theme=tokyonight"/>
 </p>
 
----
-
-## 🏆 Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=wolf-fs&theme=onestar&no-frame=true&row=1&column=6"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://github.com/wolf-fs/wolf-fs/blob/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
 
 ## 📫 Connect With Me
 
