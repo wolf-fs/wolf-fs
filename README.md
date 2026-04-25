@@ -1,13 +1,7 @@
 <p align="center">
-  <svg width="400" height="120" xmlns="http://www.w3.org/2000/svg">
-  <rect width="400" height="120" rx="15" ry="15" fill="#0d1117" stroke="#58a6ff" stroke-width="3"/>
-  <text x="50%" y="40%" dominant-baseline="middle" text-anchor="middle" font-family="Verdana, sans-serif" font-size="20" fill="#58a6ff">
-    Hello, I am Maat
-  </text>
-  <text x="50%" y="70%" dominant-baseline="middle" text-anchor="middle" font-family="Verdana, sans-serif" font-size="16" fill="#c9d1d9">
-    Full Stack Developer
-  </text>
-</svg>
+  <code>
+    <img src="./assets/logo github.png" >
+  </code>
 </p>
 
 <br />
