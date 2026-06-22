@@ -73,7 +73,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/maat-mern/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin"/></a>
-<a href="mailto:magedtanious@outlook.com"><img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=outlook"/></a>
+<a href="mailto:magedtanious@outlook.com"><img src="https://img.shields.io/badge/outlook?style=for-the-badge&logo=outlook"/></a>
 </p>
 
 ---
