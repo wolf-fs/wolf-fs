@@ -1,12 +1,12 @@
 <p align="center">
   <code>
-    <img src="./assets/assets/Maged Tanious -MERN Stack.png" >
+    <img src="./assets/assets/assets/Maged Tanious -MERN Stack.png" >
   </code>
 </p>
 
 <br />
 
-# 👋 Hello, I'm Maat
+# 👋 Hello, I'm Maged Tanious
 
 ### 🚀 Full Stack MERN Developer
 
@@ -82,4 +82,4 @@
 
 ---
 
-⭐️ From [Maat](https://github.com/wolf-fs/wolf-fs)
+⭐️ From [Maged Tanious](https://github.com/wolf-fs/wolf-fs)
