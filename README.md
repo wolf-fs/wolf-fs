@@ -71,7 +71,8 @@
 
 ## 📫 Connect With Me
 <p>
-<a href="mailto:maged.atef.arteen@gmail.com"><img src="https://raw.githubusercontent.com/USERNAME/REPO/main/assets/gmail.png" alt="Gmail" width="32"></a>
+<a href="mailto:maged.atef.arteen@gmail.com">
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="32"></a>
 </p>
 
 ---
